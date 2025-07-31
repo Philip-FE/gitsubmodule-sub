@@ -1,1 +1,1 @@
-export const icons = "icons";
+export const icons = "icons-2";
