@@ -1,1 +1,1 @@
-export const icons = "icons-2";
+export const icons = "icons-dev-2";
